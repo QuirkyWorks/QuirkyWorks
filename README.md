@@ -1,4 +1,5 @@
-- Hello, I'm an alt
+- Hello, I Exist
+- How yall' doing?
 
 <!---
 QuirkyWorks/QuirkyWorks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
